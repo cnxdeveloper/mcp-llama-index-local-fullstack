@@ -1,0 +1,6 @@
+anyio==4.9.0
+Faker==37.1.0
+llama_index==0.12.33
+llama-index-llms-openllm
+python-dotenv==1.1.0
+SQLAlchemy==2.0.40
